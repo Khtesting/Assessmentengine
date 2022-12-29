@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: Insofe-Assessmenttaking-daily
+Description: </description>
+   <name>PASS-2468 Insofe-Assessmenttaking-daily</name>
+   <tag>jira-integration</tag>
+   <integratedEntity>
+      <productName>JIRA</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;jiraIssue&quot;:{&quot;fields&quot;:{&quot;customFields&quot;:{&quot;customfield_10063&quot;:&quot;Test&quot;,&quot;customfield_10018&quot;:{&quot;hasEpicLinkFieldDependency&quot;:false,&quot;showField&quot;:false,&quot;nonEditableReason&quot;:{&quot;reason&quot;:&quot;PLUGIN_LICENSE_ERROR&quot;,&quot;message&quot;:&quot;The Parent Link is only available to Jira Premium users.&quot;}},&quot;customfield_10019&quot;:&quot;0|i08ymn:&quot;,&quot;customfield_10055&quot;:[],&quot;customfield_10000&quot;:&quot;{}&quot;},&quot;status&quot;:{&quot;id&quot;:10068,&quot;description&quot;:&quot;&quot;,&quot;iconUrl&quot;:&quot;https://knowledgehut3.atlassian.net/images/icons/statuses/generic.png&quot;,&quot;self&quot;:&quot;https://knowledgehut3.atlassian.net/rest/api/2/status/10068&quot;,&quot;name&quot;:&quot;ToDo&quot;},&quot;project&quot;:{&quot;self&quot;:&quot;https://knowledgehut3.atlassian.net/rest/api/2/project/10017&quot;,&quot;key&quot;:&quot;PASS&quot;,&quot;id&quot;:10017,&quot;name&quot;:&quot;PrismAssessments&quot;},&quot;components&quot;:[],&quot;summary&quot;:&quot;Insofe-Assessmenttaking-daily&quot;,&quot;reporter&quot;:{&quot;emailAddress&quot;:&quot;kishore.murkhanad@knowledgehut.co&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;Kishore Murkhanad&quot;,&quot;self&quot;:&quot;https://knowledgehut3.atlassian.net/rest/api/2/user?accountId\u003d5e1875060242870e996fa0fe&quot;},&quot;priority&quot;:{&quot;id&quot;:3,&quot;self&quot;:&quot;https://knowledgehut3.atlassian.net/rest/api/2/priority/3&quot;,&quot;name&quot;:&quot;Medium&quot;},&quot;votes&quot;:{&quot;self&quot;:&quot;https://knowledgehut3.atlassian.net/rest/api/2/issue/PASS-2468/votes&quot;,&quot;votes&quot;:0,&quot;hasVoted&quot;:false},&quot;fixVersions&quot;:[],&quot;subtasks&quot;:[],&quot;labels&quot;:[]},&quot;self&quot;:&quot;https://knowledgehut3.atlassian.net/rest/api/2/issue/62776&quot;,&quot;key&quot;:&quot;PASS-2468&quot;,&quot;id&quot;:62776}}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <testCaseGuid>f8a40403-5aff-4ad4-b016-bba6ddefbf3a</testCaseGuid>
+</TestCaseEntity>
